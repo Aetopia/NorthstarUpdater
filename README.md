@@ -4,12 +4,6 @@
 # Northstar Updater
 A dedicated minimal standalone updater & installer for [Northstar](https://github.com/R2Northstar), a Titanfall 2 modding and custom server framework.
 
-> [!NOTE]
-> If you need more robust functionality please consider looking into:<br>
-> - [FlightCore](https://github.com/R2NorthstarTools/FlightCore)
-> - [VTOL](https://github.com/BigSpice/VTOL)
-> - [Viper](https://github.com/0neGal/viper)
-
 ## Features
 The Northstar Updater provides the following features:
 - Updating/Installing Northstar.
@@ -17,7 +11,12 @@ The Northstar Updater provides the following features:
 - Automatic Updates for Northstar.
 
 > [!NOTE]
-> The updater only manages the [Northstar Launcher](https://github.com/R2Northstar/NorthstarLauncher).
+> The updater only manages [Northstar ](https://github.com/R2Northstar/Northstar).
+>
+> If you need more robust functionality please consider looking into:<br>
+> - [FlightCore](https://github.com/R2NorthstarTools/FlightCore)
+> - [VTOL](https://github.com/BigSpice/VTOL)
+> - [Viper](https://github.com/0neGal/viper)
 
 ## Installation
 1. Download the latest version of Northstar Updater from [GitHub Releases](https://github.com/Aetopia/Northstar-Updater/releases).
