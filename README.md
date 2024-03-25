@@ -106,3 +106,14 @@ Delete the following files/folders from Titanfall 2's installation directory.
 > [!IMPORTANT]
 > Once you uninstall Northstar, make sure to repair the game via Steam, Origin or the EA App.
 > Since the uninstallation methods mentioned here, also remove certain game files.
+
+## Building
+1. Download the following:
+    - [.NET SDK](https://dotnet.microsoft.com/en-us/download)
+    - [.NET Framework 4.8.1 Developer Pack](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net481-developer-pack-offline-installer)
+
+2. Run the following to compile:
+    
+    ```cmd
+    dotnet publish -c Release
+    ```
