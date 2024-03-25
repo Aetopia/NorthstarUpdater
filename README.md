@@ -30,7 +30,7 @@ The Northstar Updater provides the following features:
     |EA App|`C:\Program Files\EA Games\Titanfall2`|
 
 3. Run `NorthstarUpdater.exe` to install and run Northstar.
-    > Any arguments passed to `NorthstarUpdater.exe` will forwarded to Northstar.
+    > Any arguments passed to `NorthstarUpdater.exe` will be forwarded to Northstar.
 
 ## Uninstallation
 ### Steam
