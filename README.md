@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This repository is not with [Northstar](https://github.com/R2Northstar)!
+> This repository is not affiliated with [Northstar](https://github.com/R2Northstar)!
 
 # Northstar Updater
 A dedicated standalone updater & installer for [Northstar](https://github.com/R2Northstar), a Titanfall 2 modding and custom server framework.
