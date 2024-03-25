@@ -7,14 +7,9 @@ using System.IO;
 using System.Security.Cryptography;
 using System.IO.Compression;
 using System.Diagnostics;
-using System.Runtime.InteropServices;
 
 class Program
 {
-    [DllImport("User32")]
-    [DefaultDllImportSearchPaths(DllImportSearchPath.System32)]
-    private static extern IntPtr FindWindowW([MarshalAs(UnmanagedType.LPWStr)] string lpClassName, [MarshalAs(UnmanagedType.LPWStr)] string lpWindowName);
-
     readonly static MD5 md5 = MD5.Create();
 
     private static string GetMD5Hash(string path)
