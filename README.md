@@ -104,7 +104,7 @@ r2ds.bat
 Delete the following files/folders from Titanfall 2's installation directory.
 
 > [!IMPORTANT]
-> Once you uninstall Northstar, make sure to repair the game via Steam, Origin or the EA App.
+> Once you uninstall Northstar, make sure to repair the game via Steam, Origin or the EA App.<br>
 > Since the uninstallation methods mentioned here, also remove certain game files.
 
 ## Building
